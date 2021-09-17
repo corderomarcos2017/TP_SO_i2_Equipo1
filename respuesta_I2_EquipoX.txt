@@ -41,5 +41,11 @@ git remote add upstream https://github.com/jb1093/TP_SO_i2_Equipo1.git
 git fetch upstream
 git merge upstream/main
 
+Completo El archivo respuestas_I2_ExquipoX
+git add .
+git commit -m "Completas REspuestas Tp2"
+git push
+
+
 
 
