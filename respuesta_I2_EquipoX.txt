@@ -15,3 +15,31 @@ el fork?
 
 e- realizar un listado con los apellidos y nombre de los alumnos , junto con los comando y
 orden de ejecución de los mismos, que debieron usar para este TP
+1)
+Bogado Julieta, BETA
+git clone https://github.com/jb1093/TP_SO_i2_Equipo1.git
+git add .
+git commit -m "BETA subo fork.txt"
+git push
+
+4)
+git add .
+git commit -m "respuestas de BETA"
+git push
+
+
+
+Cordero Marcos ALFA
+2)
+git clone https://github.com/jb1093/TP_SO_i2_Equipo1.git
+git add .
+git commit -m "Datos del alfa"
+git push
+
+4)
+git remote add upstream https://github.com/jb1093/TP_SO_i2_Equipo1.git
+git fetch upstream
+git merge upstream/main
+
+
+
